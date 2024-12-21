@@ -1,4 +1,6 @@
 # SR-FLIPFLOP-USING-CASE
+NAME: S.D. SURENDAR
+REG.NO: 24901073
 
 **AIM:**
 
@@ -34,15 +36,35 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **Procedure**
 
-/* write all the steps invloved */
+1.Type the program in Quartus software.
+
+2.Compile and run the program.
+
+3.Generate the RTL schematic and save the logic diagram.
+
+4.Create nodes for inputs and outputs to generate the timing diagram. 
+
+5.Generate the timing diagram for different input combinations. 
 
 **PROGRAM**
+\\
+  
+   ![Screenshot 2024-12-21 214853](https://github.com/user-attachments/assets/be8045dd-4eca-49a2-a3a1-d26705f15924)
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+
 
 **RTL LOGIC FOR FLIPFLOPS**
+\\
+  
+   ![Screenshot 2024-12-21 214830](https://github.com/user-attachments/assets/bd8eb9f9-d107-467e-be02-2fcad0ac58a9)
+
+
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+\\
+  
+   ![Screenshot 2024-12-21 214840](https://github.com/user-attachments/assets/e47704ba-f22b-4461-b29e-84aa275b0d32)
+
 
 **RESULTS**
+Thus, the SR Flip-Flops is designed, and its functionality is validity using the truth table and timing diagrams.
